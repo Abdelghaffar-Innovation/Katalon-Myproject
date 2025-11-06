@@ -17,18 +17,5 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/ScriptModeDemo</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>78ae426f-b519-403e-9209-cc09d7c51da3</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>bcab0d4a-c079-4462-aa5b-3a122ae1e3d3</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/ManualModeDemo</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

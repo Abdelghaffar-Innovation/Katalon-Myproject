@@ -22,7 +22,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://practicetestautomation.com/practice-test-login/')
 
-WebUI.setText(findTestObject('Object Repository/Page_Test Login  Practice Test Automation/input_Username_username'), UserName)
+WebUI.setText(findTestObject('Page_Test Login  Practice Test Automation/input_Username_username'), 'student')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Test Login  Practice Test Automation/input_Password_password'), 
     'p4y+y39Ir5PJb2ispxT0Ew==')
